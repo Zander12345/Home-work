@@ -35,7 +35,7 @@ header ul li a {
     text-decoration: none;
     padding: 10px 25px;
     display: block;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: bold;
     font-family: arial;
 }
@@ -52,7 +52,7 @@ header ul {
 
 #logo {
     display: block;
-    max-width: 70px;
+    max-width: 3000px;
 }
 
 .product {
@@ -135,7 +135,7 @@ header ul {
 }
 
 .p-bottom button {
-    background: #486d37;
+    background: #de8d28;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
@@ -215,7 +215,7 @@ footer h3 {
 }
 
 .form-subcribe button {
-    background: #265e0c;
+    background: #de8d28;;
     border: none;
     padding: 5px 15px;
     cursor: pointer;
