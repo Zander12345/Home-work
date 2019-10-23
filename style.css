@@ -8,6 +8,11 @@ header {
     padding: 15px;
 }
 
+body {
+background-image: url(123.jpg);
+}
+
+
 body, ul {
     margin: 0;
     padding: 0;
@@ -41,7 +46,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    background: #486d37;
+    background: #de2841;
 }
 
 header ul {
@@ -66,6 +71,7 @@ header ul {
 
 #sidebar {
     width: 23%;
+    font-weight: bold;
 }
 
 #content {
@@ -91,8 +97,7 @@ header ul {
 }
 
 #sidebar ul li a:hover {
-    color: #a3c639;
-    border-color: #a3c639;
+    color: #de2841;
 }
 
 #sidebar ul li:last-child a {
@@ -147,7 +152,7 @@ header ul {
 }
 
 .p-bottom button:hover {
-    background: #265e0c;
+    background: #de2841;
 }
 
 @media(max-width: 960px) {
